@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/indialore-react-app/static/css/main.93a13436.chunk.css",
+    "main.js": "/indialore-react-app/static/js/main.2b9372f6.chunk.js",
+    "main.js.map": "/indialore-react-app/static/js/main.2b9372f6.chunk.js.map",
+    "runtime-main.js": "/indialore-react-app/static/js/runtime-main.97fa64ff.js",
+    "runtime-main.js.map": "/indialore-react-app/static/js/runtime-main.97fa64ff.js.map",
+    "static/js/2.e37cb247.chunk.js": "/indialore-react-app/static/js/2.e37cb247.chunk.js",
+    "static/js/2.e37cb247.chunk.js.map": "/indialore-react-app/static/js/2.e37cb247.chunk.js.map",
+    "index.html": "/indialore-react-app/index.html",
+    "static/css/main.93a13436.chunk.css.map": "/indialore-react-app/static/css/main.93a13436.chunk.css.map",
+    "static/js/2.e37cb247.chunk.js.LICENSE.txt": "/indialore-react-app/static/js/2.e37cb247.chunk.js.LICENSE.txt",
+    "static/media/LoginPage.css": "/indialore-react-app/static/media/i25.b4d0a5e4.jpg",
+    "static/media/image0.3a2086ff.png": "/indialore-react-app/static/media/image0.3a2086ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97fa64ff.js",
+    "static/js/2.e37cb247.chunk.js",
+    "static/css/main.93a13436.chunk.css",
+    "static/js/main.2b9372f6.chunk.js"
+  ]
+}
